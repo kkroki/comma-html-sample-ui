@@ -1,0 +1,44 @@
+.login-form{
+  margin-top: 10%;
+  margin-left: 25%;
+  width: 50%;
+  height: auto;
+  background-color: darkkhaki;
+}
+.login-text{
+  margin-left: 25%;
+  margin-top: 2%;
+  width: 500px;
+  height: 40px;
+  padding-left: 1%;
+}
+.pwd-text{
+  margin-left: 25%;
+  margin-top: 1%;
+  width: 500px;
+  height: 40px;
+  padding-left: 1%;
+  }
+.login-button{
+  margin-left: 25%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  width: 515px;
+  height: 40px;
+}
+.login-checkbox{
+  margin-left: 25%;
+  display: inline-block;
+}
+.id-search{
+  margin-left: 10%;
+  display: inline-block;
+}
+.pw-search{
+  margin-left: 1%;
+  display: inline-block;
+}
+.member-join{
+  margin-left: 1%;
+  display: inline-block;
+}
